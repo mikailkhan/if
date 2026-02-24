@@ -2,7 +2,7 @@ import Logo from "../assets/logo2.svg?react";
 
 const Header = () => {
   return (
-    <header className="flex justify-between bg-primary border-b-2 border-gray-200">
+    <header className="flex justify-between bg-primary shadow-2xl m-0">
       <div className="">
         <Logo width="300" />
       </div>
