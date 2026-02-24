@@ -6,4 +6,9 @@
   --font-sans:
     "Kumbh Sans", sans-serif, ui-sans-serif, system-ui, "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+  --color-primary: #8fb608;
+  --color-default: #01002b;
+  --color-danger: #db2f2e;
+  --color-secondary: #c9e4e7;
 }
